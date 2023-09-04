@@ -1,7 +1,7 @@
 ### Tetris
 It is a classic Tetris Game written in .Net console.
 
-![Tetris Game](https://raw.githubusercontent.com/NandhniV25/ConsoleGames/main/TetrisBlockGame/Overview/TetrisGameGif.gif)
+![Tetris Game](https://raw.githubusercontent.com/NandhniV25/TetrisGame/main/TetrisGameGif.gif)
 
 ### Game Rules
 * We have some different shapes which are falling from top to bottom
